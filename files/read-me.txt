@@ -1,0 +1,21 @@
+---Observações---
+1. O script está sendo executado em spark utilizando um jupyter notebook e python
+2. Tive problema com o driver ODBC do postgresql qual seria utilizado para a leitura dos dados no postgresql, e para não perder mais tempo tentando identificar o problema optei por utilizar outra LIB para ler os dados pois entendo que essa parte da leitura de dados utilizando spark é simples e padrão.
+3. Modelei a tabela e o site https://generatedata.com/generator ajudou a gerar os dados.
+4. Devido as associações entre tabelas(FK) se faz necessário seguir uma ordem para a criação das tabelas e inserção dos dados:
+    1. associado.sql
+    2. conta.sql
+    3. cartao.sql
+    4. movimento.sql
+5. Na criação do movimento_flat não foi possível criar a coluna data_criacao_cartao pois no diagrama definido da tabela não existe campo de data de criação na tabela cartão.
+6. O arquivo sicredi.rar contém as seguintes pastas e respectivos arquivos:
+    1. pasta sql: contém os códigos sql necessários para a criação das tabelas e inserção dos dados
+    2. jupyter.sicredi.ipynb: jupyter notebook pronto para ser executado
+    3. main.py: copia do código python presente no file jupyter notebook
+    4. pasta movimento_flat: arquivo csv escrito pelo spark com as especificações solicitadas
+7. Utilizei o postgresql como database, criei uma instância local na máquina com as seguintes especificações:
+    database: postgres
+    user: postgres
+    password: 123    
+    server: localhost
+    port: 5432

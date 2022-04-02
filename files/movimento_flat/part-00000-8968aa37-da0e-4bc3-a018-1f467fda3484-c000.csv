@@ -1,0 +1,14 @@
+nome_associado,sobrenome_associado,idade_associado,vlr_transacao_movimento,des_transacao_movimento,data_movimento,numero_cartao,nome_impresso_cartao,tipo_conta,data_criacao_conta
+Wynne,Eric,32,767.0,varius,2022-01-31T00:00:00.000-03:00,1,convallis convallis,enim. Mauris quis,2023-03-14T00:00:00.000-03:00
+Hashim,Jared,24,525.0,Sed,2021-11-22T00:00:00.000-03:00,2,Nulla eget,mus. Proin vel,2022-02-01T00:00:00.000-03:00
+Ryan,Noah,34,463.0,dapibus,2022-10-02T00:00:00.000-03:00,3,a mi,Quisque fringilla euismod,2018-11-10T00:00:00.000-02:00
+Ocean,Tate,34,205.0,vel,2021-05-19T00:00:00.000-03:00,4,risus. Duis,nunc. Quisque ornare,2019-09-25T00:00:00.000-03:00
+Jenette,Jelani,26,673.0,"non,",2022-05-17T00:00:00.000-03:00,5,"et, magna.",erat neque non,2022-06-03T00:00:00.000-03:00
+Hyacinth,Xanthus,22,898.0,lacus.,2021-12-10T00:00:00.000-03:00,6,"tristique ac,",dolor. Donec fringilla.,2019-02-23T00:00:00.000-03:00
+Kylie,Blossom,33,982.0,eu,2021-11-24T00:00:00.000-03:00,7,eget magna.,"venenatis vel, faucibus",2022-08-06T00:00:00.000-03:00
+Wynter,Rooney,23,106.0,"et,",2021-09-20T00:00:00.000-03:00,8,id enim.,id sapien. Cras,2021-09-07T00:00:00.000-03:00
+Shad,Nolan,21,286.0,elit,2021-06-13T00:00:00.000-03:00,9,Praesent eu,vitae nibh. Donec,2020-02-28T00:00:00.000-03:00
+Carolyn,Charlotte,28,416.0,imperdiet,2022-02-22T00:00:00.000-03:00,10,et arcu,"non, luctus sit",2021-12-31T00:00:00.000-03:00
+Wynne,Eric,32,1000.0,celular,2022-02-22T00:00:00.000-03:00,40,xp_investimentos,corrente,2022-02-25T00:00:00.000-03:00
+Wynne,Eric,32,3780.0,computador,2022-02-22T00:00:00.000-03:00,99,nubank,poupanca,2022-02-25T00:00:00.000-03:00
+Hashim,Jared,24,856.0,almoco,2022-02-22T00:00:00.000-03:00,40,pic_pay,corrente,2022-02-25T00:00:00.000-03:00
